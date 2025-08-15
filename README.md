@@ -15,6 +15,9 @@ It was built as part of an internship task.
 - **CSS**
 - **JavaScript** (Fetch API)
 
+  ## Live Demo
+🔗 **[View Live Project Here](https://pavankalyan-13-p.github.io/fetch-api-user-data/)**
+
 ## 🚀 How to Run
 1. Clone or download this repository
 2. Open the `index.html` file in a web browser  
